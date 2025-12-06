@@ -4,7 +4,6 @@
 
 作者github ：https://github.com/gemaobrigade
 
-作者微信：hchlcx01 【不会使用可加微信】
 
 版本 ： V1.0.0
 
